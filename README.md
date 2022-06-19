@@ -3,11 +3,11 @@
 
 ⚔️ PAID TOOLS ⚔️
 
-⭕ 7 DAYS 50 TAKA
+⭕ 7 DAYS 100 TAKA
 
-⭕ 15 DAYS 100 TAKA
+⭕ 15 DAYS 200 TAKA
 
-⭕ 30 DAYS 150 TAKA
+⭕ 30 DAYS 300 TAKA
 
 git clone https://github.com/ferdousvau1/5G-SPEED
 
